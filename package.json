@@ -32,6 +32,6 @@
     "unit": "tape test/index.js"
   },
   "dependencies": {
-    "base-x": "^3.0.5"
+    "base-x": "github:snowgem/base-x"
   }
 }
